@@ -1,2 +1,2 @@
 veracode_static_scan:
-  profile: 'javascript-override-build'
+  profile: 'javascript-override-test'
